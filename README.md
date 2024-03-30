@@ -1,5 +1,6 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+## hello-git-init repo
+Created on local folders, changed several times. Created with commandline GitCmd, editor was VSCode.
+Checks, status and parameters are checked through Git Gui as well.
 
-This repository is built step by step in the tutorial. 
+And finally, pushed to the GitHub.
+
